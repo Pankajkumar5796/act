@@ -1,0 +1,11 @@
+@media(max-width:991px){
+    .mobile-menu.mobile_menu_custome{
+        display: block;
+    }
+}
+
+@media(min-width:992px){
+    .tp-footer-3-bg-overlay{
+        height: 678px !important;
+    }
+}

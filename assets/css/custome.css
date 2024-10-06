@@ -1,0 +1,73 @@
+.tp-main-menu ul li .submenu{
+    width: 279px !important;
+}
+.tp-hero-overlay::before{
+    background: linear-gradient(90deg, #309ed4 18.05%, rgba(33, 68, 216, 0) 85.78%) !important;
+}
+.tp-service-3-thumb img{
+    border-radius: 10px;
+    height: 200px !important;
+}
+.tp-service-3-thumb{
+    width: 100% !important;
+}
+.tp-service-3-item{
+    border-radius: 0 0 10px 10px;
+}
+.tp-service-3-item{
+    padding-top: 0px !important;
+    padding-left: 0 !important;
+    padding-right: 0px !important;
+}
+.mobile-menu.mobile_menu_custome{
+    display: none;
+}
+.service-sidebar__widget{
+    padding: 28px 22px 40px 22px !important;
+}
+.card-image{
+    position: relative;
+    display: block;
+    width: 100%;
+    padding-top: 70%;
+    background: #ffffff;
+  }
+.card-image img {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .tp-footer-3-bg-overlay{
+    display: none !important;
+  }
+  .tp-footer-inner-content{
+    background: linear-gradient(180deg, #FFF 0%, #F4F6FD 35.42%, #F4F6FD 100%);
+  }
+
+  .tp-footer-widget-contact .contact-inner a{
+    font-size: 20px;
+  }
+
+
+
+  /* call-bck-btn */
+
+  .mob_wrapper{
+    background: var(--tp-theme-secondary);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+    z-index: 100;
+
+  }
+
+  .mob_wrapper .call_btn_bx h4{
+   color: #fff;
+   font-size: 18px;
+  }
